@@ -1,0 +1,5 @@
+---
+vb_name: hoge
+host: 192.168.33.10
+cpus: 2
+memory: 2048
